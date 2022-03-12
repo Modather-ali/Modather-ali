@@ -37,3 +37,9 @@
 <a href="https://stackoverflow.com/users/10835183/jideguru"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
 </p>
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modather-ali&theme=gotham&hide=javascript,html,css,objective-c" />
+</a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Modather-ali&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<!--END_SECTION:waka-->
