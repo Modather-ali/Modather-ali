@@ -42,4 +42,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modather-ali&theme=gotham&hide=javascript,html,css,objective-c" />
 </a>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Modather-ali&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
+  
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Modather-ali"><img alt="Modather-ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Modather-ali&custom_title=Modather-ali's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 <!--END_SECTION:waka-->
