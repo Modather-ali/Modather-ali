@@ -37,6 +37,11 @@
 <a href="https://stackoverflow.com/users/10835183/jideguru"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JideGuru at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
 </p>
 -->
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Modather-ali&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Modather-ali"></img>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modather-ali&theme=gotham&hide=javascript,html,css,objective-c" />
@@ -44,9 +49,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Modather-ali&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
   
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Modather-ali"><img alt="Modather-ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Modather-ali&custom_title=Modather-ali's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+
 
 <!--END_SECTION:waka-->
