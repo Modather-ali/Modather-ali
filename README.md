@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I develop mobile apps using Flutter💙. <img src="https://gpvc.arturio.dev/Modather-ali" /></p>
+<p align='center'>I develop mobile apps using Flutter💙.</p>
 
 
 <p align='center'>
